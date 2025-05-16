@@ -37,7 +37,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar 
 
 ## 📂 Projetos em Destaque
 - **[Portifolio online]**  
-  Um portifólio web com Next.js, React e sistema de email integrado.  
+  Um portifólio web com React e sistema de email integrado.  
   🔗 https://tobiasperassi.github.io/tobiasperassi-portifolio
 
 - **[Front com API integrada ao BD]**  
