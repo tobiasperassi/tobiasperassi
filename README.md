@@ -29,6 +29,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar 
 <div align="center">
 
 <br clear="both">
+    <img align="left" height="230" src="https://i.pinimg.com/originals/d8/6f/3a/d86f3ab8192f5589eca93cd7725ad8e4.gif"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasperassi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="41%"/>
 </div>
 
