@@ -6,7 +6,6 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar 
 - 🌍 Resido atualmente em Sorocaba, São Paulo
 - 💻 Desenvolvedor full-stack em formação, aprendendo cada dia mais!
 - 🚀 Entusiasta de aprendizado contínuo, sempre buscando dominar novas tecnologias e boas práticas.
-- 🎯 Estou entusiasmado com a possibilidade de contribuir para a Mind Consulting, onde posso crescer através de mentoria, colaborar em projetos inovadores e transformar ideias em realidade.
 
 ## 🛠️ Habilidades
 
