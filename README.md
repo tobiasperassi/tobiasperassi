@@ -34,7 +34,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar 
 </div>
 
 
-
+</br>
 ## 📂 Projetos em Destaque
 - **[Portifolio online]**  
   Um portifólio web com React e sistema de email integrado.  
