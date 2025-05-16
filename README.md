@@ -40,9 +40,9 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar 
   Uma aplicação web full-stack com Next.js, Prisma e PostgreSQL, com autenticação de usuários e CRUD completo.  
   🔗 [github.com/tobiasperassi/task-manager](https://github.com/tobiasperassi/task-manager)
 
-- **[API de Autenticação]**  
+- **[Front com API integrada ao BD]**  
   Uma API RESTful com Node.js, Prisma e MySQL, utilizando JWT para autenticação segura.  
-  🔗 [github.com/tobiasperassi/auth-api](https://github.com/tobiasperassi/auth-api)
+  🔗 https://github.com/tobiasperassi/API_NodeNext
   
 
 ## 📚 O que Estou Aprendendo
