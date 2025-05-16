@@ -27,28 +27,25 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar 
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-
-<br clear="both">
-    <img align="left" height="230" src="https://i.pinimg.com/originals/d8/6f/3a/d86f3ab8192f5589eca93cd7725ad8e4.gif"  />
+  <img align="left" height="230" src="https://i.pinimg.com/originals/d8/6f/3a/d86f3ab8192f5589eca93cd7725ad8e4.gif" alt="GIF Animado" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasperassi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="41%"/>
 </div>
-
+<br clear="both"/>
+<br/>
 
 ## 📂 Projetos em Destaque
-- **[Portifolio online]**  
-  Um portifólio web com React e sistema de email integrado.  
-  🔗 https://tobiasperassi.github.io/tobiasperassi-portifolio
+- **[Portfólio online]**  
+  Um portfólio web com React e sistema de email integrado.  
+  🔗 https://tobiasperassi.github.io/tobiasperassi-portfolio
 
 - **[Front com API integrada ao BD]**  
   Uma API RESTful com Node.js, Prisma e MySQL, utilizando JWT para autenticação segura.  
   🔗 https://github.com/tobiasperassi/API_NodeNext
-  
 
 ## 📚 O que Estou Aprendendo
 - Explorando **Next.js 14** e suas funcionalidades de server components.
 - Estudando **escalabilidade** em aplicações web com Node.js e PostgreSQL.
 
 ## 📬 Entre em Contato
-- LinkedIn: www.linkedin.com/in/tobias-perassi-alquezar-272165254
+- LinkedIn: [www.linkedin.com/in/tobias-perassi-alquezar-272165254](https://www.linkedin.com/in/tobias-perassi-alquezar-272165254)
 - E-mail: tobiasperassi@gmail.com
-
