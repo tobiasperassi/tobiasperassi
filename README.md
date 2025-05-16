@@ -36,9 +36,9 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar 
 
 
 ## 📂 Projetos em Destaque
-- **[Sistema de Gerenciamento de Tarefas]**  
-  Uma aplicação web full-stack com Next.js, Prisma e PostgreSQL, com autenticação de usuários e CRUD completo.  
-  🔗 [github.com/tobiasperassi/task-manager](https://github.com/tobiasperassi/task-manager)
+- **[Portifolio online]**  
+  Um portifólio web com Next.js, React e sistema de email integrado.  
+  🔗 https://tobiasperassi.github.io/tobiasperassi-portifolio
 
 - **[Front com API integrada ao BD]**  
   Uma API RESTful com Node.js, Prisma e MySQL, utilizando JWT para autenticação segura.  
