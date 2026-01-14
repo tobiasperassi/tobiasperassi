@@ -1,6 +1,6 @@
 # Olá, sou Tobias Perassi! 👋
 
-Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar soluções web modernas e escaláveis. Com foco em desenvolvimento full-stack, adoro transformar ideias em realidade usando tecnologias como **React, Next.js, TypeScript, Node.js, Prisma, MySQL e PostgreSQL**.
+Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar soluções web modernas e escaláveis. Com foco em desenvolvimento full-stack, adoro transformar ideias em realidade usando tecnologias como **React, Next.js, TypeScript, Node.js, Prisma, MySQL e PostgreSQL**
 
 ## 🌟 Sobre Mim
 - 🌍 Resido atualmente em Sorocaba, São Paulo
