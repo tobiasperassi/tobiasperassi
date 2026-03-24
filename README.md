@@ -33,6 +33,8 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar 
 <br clear="both"/>
 <br/>
 
+![snake gif](https://github.com/tobiasperassi/tobiasperassi/blob/output/github-contribution-grid-snake.gif)
+
 ## 📂 Projetos em Destaque
 - **[Portfólio online]**  
   Um portfólio web com React e sistema de email integrado.  
