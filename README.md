@@ -55,11 +55,6 @@ Bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por criar soluções
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tobiasperassi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasperassi&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=tobiasperassi&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
